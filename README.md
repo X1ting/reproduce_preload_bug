@@ -1,0 +1,1 @@
+Explanation for stackoverflow [question](https://stackoverflow.com/questions/58472642/resolve-n-1-in-case-of-instance-dependent-scope)
